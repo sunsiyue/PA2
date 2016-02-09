@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="BaroGpsApp">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/BaroGpsApp.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
